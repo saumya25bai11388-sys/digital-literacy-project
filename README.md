@@ -18,5 +18,5 @@ As a Student Digital Ambassador, I completed five tasks covering infographic des
 📌 Objective
 To create a visual infographic that explains the concept of digital literacy and its importance for students.
 
-![Infographic](task-1-presentation/infographic.png)
+![Infographic](task-1-presentation/infographic.png) 
 
