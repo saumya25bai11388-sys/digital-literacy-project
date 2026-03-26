@@ -40,3 +40,5 @@ To create a visual infographic that explains the concept of digital literacy and
 ![Google Form](task-3-platform/google-form-2.png)
 ![Responses](task-3-platform/response.png)
 
+Google form link: https://docs.google.com/forms/d/e/1FAIpQLSczcwXdJtHea7McahtCKsIYoDZGPb8Lef75GbdpOZ8TnJHJsg/viewform?usp=publish-editor
+
