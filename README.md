@@ -20,3 +20,14 @@ To create a visual infographic that explains the concept of digital literacy and
 
 ![Infographic](task-1-presentation/infographic.png) 
 
+## Task 2: Student Digital Portfolio  
+
+
+### GitHub Profile
+![GitHub](task-2-portfolio/github.png)
+
+### LinkedIn Profile
+![LinkedIn](task-2-portfolio/linkedin.png)
+
+### HackerRank Profile
+![HackerRank](task-2-portfolio/hackerrank.png)
