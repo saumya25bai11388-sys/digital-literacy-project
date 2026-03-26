@@ -35,4 +35,4 @@ To create a visual infographic that explains the concept of digital literacy and
 ## 💻 Task 3: Coding & Collaboration Platforms  
 
 ### HackerRank Coding
-![HackerRank](task-3-portfolio/hackerrank.png)
+![HackerRank](task-3-platforms/hackerrank.png)
