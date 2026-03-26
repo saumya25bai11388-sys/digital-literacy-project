@@ -1,0 +1,18 @@
+Case Study: The "Urgent Verification" Phishing Trap
+What is Phishing?
+Phishing is a deceptive technique where attackers masquerade as a trusted entity—such as a bank, social media platform, or government agency—to trick individuals into revealing sensitive information like login credentials, credit card numbers, or personal identification.
+
+How it Happens: Step-by-Step
+Scammers use a trick called "The Bait" to get to you. They send you an email or a text message that looks like it's from a real bank, like "Global Bank Support". The message is urgent and scary, saying something like "there's something fishy going on with your account".
+
+The Scam: It starts with a message that has a "Verify Now" button in it. When you click on this button, it takes you to a website that looks just like the real website of your bank.
+
+Here's the rewritten text: The Catch is when you type in your username and password, and then the site asks for a special code, known as a One-Time Password, or OTP for short.
+
+When a thief steals your info, they get your bank login details in real-time and use them to get into your actual account right away. Then, they quickly move your money to a secret wallet that can't be tracked.
+
+Who is Targeted?
+People with internet access are all potential targets, but attackers usually go after students and young professionals. These groups use digital services a lot and might be more likely to quickly react to urgent messages on their phones without checking who sent the email. They often don't verify the sender's email address, which can make them more vulnerable to attacks.
+
+Consequences
+The effects can be really bad. When someone's information is stolen, they can lose money right away. They also might have their personal info sold on the dark web, which can lead to identity theft. On top of that, they have to go through a long and stressful process to get their accounts back in order and fix their credit reputation. It's a lot to deal with.
