@@ -36,3 +36,7 @@ To create a visual infographic that explains the concept of digital literacy and
 
 ### HackerRank Coding
 ![HackerRank](task-3-platforms/hackerrank.png)
+![Google Form](task-3-platforms/google-form-1.png)
+![Google Form](task-3-platforms/google-form-2.png)
+![Responses](task-3-platforms/responses.png)
+
