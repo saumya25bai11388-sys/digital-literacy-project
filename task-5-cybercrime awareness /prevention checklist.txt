@@ -1,0 +1,26 @@
+Part B: Cybercrime Prevention & Response Guide
+To protect yourself and your peers, follow the S.T.O.P. framework:
+
+1. Scrutinize the Source
+Check the Sender: Hover over the sender’s name to see the actual email address. If it’s support@g00gle.com instead of google.com, it’s a scam.
+
+Look for Typos: Professional organizations rarely have glaring grammatical errors or "Urgent!!!" subject lines.
+
+2. Tighten Security Settings
+Enable MFA: Always use Multi-Factor Authentication (MFA). Even if a hacker gets your password, they can't get in without the secondary code on your phone.
+
+Use Passphrases: Instead of simple passwords, use long phrases like Blue-Elephant-Runs-Fast-2026!.
+
+3. Observe the URL
+Don't Click, Type: Instead of clicking a link in an email, manually type the website address into your browser.
+
+Check for the Padlock: Ensure the site uses https:// (the 's' stands for secure), though remember that some sophisticated phishing sites now use this too.
+
+4. Plan your Response (If Hit)
+If you realize you've clicked a suspicious link:
+
+Disconnect: Immediately turn off your Wi-Fi or mobile data to stop data outgoing to the attacker.
+
+Change Credentials: Use a different, clean device to change your passwords for banking and email.
+
+Report it: Contact your bank immediately and report the incident on the official national cybercrime portal (e.g., cybercrime.gov.in in India).
